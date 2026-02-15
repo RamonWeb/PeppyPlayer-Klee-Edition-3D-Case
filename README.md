@@ -1,5 +1,7 @@
 # 📻 PeppyPlayer "Klee Edition" – Modern 3D-Printed Desktop Radio
 
+[![Download STLs](https://img.shields.io/badge/Download-STLs%20(ZIP)-orange?style=for-the-badge&logo=github)](https://github.com/RamonWeb/PeppyPlayer-Klee-Edition-3D-Case/releases/latest)
+
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 ![Hardware](https://img.shields.io/badge/Hardware-Raspberry%20Pi%204-red)
 ![Edition](https://img.shields.io/badge/Software-PeppyPlayer%20Klee%202025-blue)

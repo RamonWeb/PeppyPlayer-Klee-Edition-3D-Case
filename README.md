@@ -42,7 +42,8 @@ This build is designed for the **PeppyPlayer Klee Edition (Version 2025.02.23)**
 2. **Wiki:** Follow the official [Documentation](https://github.com/project-owner/PeppyPlayers.doc/wiki) for setup.
 
 ## 📸 Gallery
-`![Front View](Images/front.jpg)`) *
+
+(Images/front.jpg)
 
 ---
 

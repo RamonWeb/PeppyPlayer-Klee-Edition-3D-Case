@@ -1,3 +1,4 @@
+```text
 [ POWER SUPPLY ]
           (12V DC)
              |
@@ -22,3 +23,4 @@
     |                 |
     +---[ DC-DC STEP DOWN ]
          (12V to 5V DC)
+```
